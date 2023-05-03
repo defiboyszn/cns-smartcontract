@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Card Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Card Name Service (CNS) is a decentralized Identity (DID) that allows user send and receive crypto with their domain also enabling users use thier domain to login to dapps that integrates cnsprotocol
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[Visit Project](https://trycns.vercel.app)
